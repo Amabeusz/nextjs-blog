@@ -5,7 +5,7 @@ import Layout from "../../components/layout";
 
 export default function FirstPost() {
   return (
-    <Layout>
+    <Layout home={undefined}>
       <Head>
         <title>dupa</title>
         <Script
